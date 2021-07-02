@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndreVianna
+- 👀 I’m interested in software development, system architecture, .net, c#, clean code, clean architecture, and more.
+- 🌱 I’m currently learning .net blazor
+- 💞️ I’m looking to collaborate on UI/UX and web design for a private project 
+- 📫 How to reach me: email me at andre.vianna.github@hotmail.com
